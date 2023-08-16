@@ -1,4 +1,3 @@
-
 import React from 'react';
 import PropTypes from 'prop-types';
 
@@ -11,4 +10,3 @@ Notification.propTypes = {
 };
 
 export default Notification;
-

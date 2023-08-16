@@ -1,4 +1,3 @@
-
 import React from 'react';
 import PropTypes from 'prop-types';
 
@@ -24,4 +23,3 @@ Statistics.propTypes = {
 };
 
 export default Statistics;
-
